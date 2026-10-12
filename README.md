@@ -21,7 +21,7 @@
 # Блок-схема
 (ShemaDz.png)
 # Блок-схема
-![Блок-схема](ShemaDz6.png)
+(ShemaDz6.png)
 # Реализация
 ```c
 ﻿#include<stdio.h>
