@@ -19,7 +19,7 @@
 9. Конец программы.
 
 # Блок-схема
-![Блок-схема](ShemaDz6.drawio.png)
+![Блок-схема](ShemaDz66.drawio.png)
 # Реализация
 ```c
 ﻿#include<stdio.h>
